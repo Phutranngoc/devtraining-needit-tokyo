@@ -12,12 +12,12 @@
         <map_page/>
         <mobile_title>NeedIts</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit</name>
+        <name/>
         <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_58872_needit.needit_user</roles>
+        <roles>x_58872_needit.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-18 13:23:37</sys_created_on>
